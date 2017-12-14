@@ -1,0 +1,5 @@
+1st step: git clone then copy the url from github, git status, git add ., git push origin master.
+2nd step: for creating index.html from github then put some data, then git fetch, git status and git pull origin master
+3rd step: for creating Exam and Notes folder. Using mkdir and put a data on its files then git fetch, git status and git push origin master
+4th step: Creating sublime text for Exam folder named "midterm-handson-exam.py" and notepad for "midterm-written-exam.txt"
+5th step: Creating notepad for Notes Folder named "details.txt" and "steps.txt"
